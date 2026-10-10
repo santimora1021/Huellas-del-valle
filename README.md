@@ -1,2 +1,2 @@
 # Huellas-del-valle
-Sistema de gestión para la Clínica Veterinaria Huellas del Valle: base de datos Oracle en 3FN con PL/SQL y aplicación en Python (python-oracledb). Proyecto académico, Universidad Fidélitas.
+Huellas del Valle es un sistema de gestión para una clínica veterinaria simulada. Administra propietarios, mascotas, citas, consultas, inventario y facturación mediante una base de datos Oracle normalizada, programada con SQL y PL/SQL, y una aplicación de escritorio en Python conectada con la biblioteca python-oracledb. Proyecto de investigación del curso Lenguaje de Base de Datos, Universidad Fidélitas.
